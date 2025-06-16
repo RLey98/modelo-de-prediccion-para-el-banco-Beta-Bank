@@ -1,1 +1,1 @@
-# modelo-de-prediccion-para-el-banco-Beta-Bank
+# Modelo de predicción para la retención de clientes para el banco Beta Bank
